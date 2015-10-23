@@ -1,2 +1,2 @@
 # swift-tutorials
-Sandbox for Swift tutorials and exercises
+Sandbox for my online Swift tutorials and exercises
